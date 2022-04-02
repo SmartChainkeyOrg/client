@@ -54,6 +54,7 @@ body * {
     background: #2f2841;
     border-radius: 20px;
     box-shadow: 0px 10px 40px #00000056;
+    color: #FFFFFF;
 }
 
 .card-login > h1 {
