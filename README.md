@@ -1,3 +1,3 @@
 # Smartchain
 <h3>Aonde quer que você esteja, sua casa está segura.</h3>
-<img src="https://github.com/SmartChainkeyOrg/client/blob/aeb5ddf83e11e1dcedb668df2eb04b28c015b869/assets/world.svg" height="300px">
+<img src="https://user-images.githubusercontent.com/72043658/168502442-79c22e33-8763-438c-87e0-69a7eeebaaf1.png" height="500px">
